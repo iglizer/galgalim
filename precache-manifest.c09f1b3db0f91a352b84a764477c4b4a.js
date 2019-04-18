@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/galgalim/static/js/runtime~main.f148a28d.js"
   },
   {
-    "revision": "ec8c8ee86c39928b82a7",
-    "url": "/galgalim/static/js/main.cbd2b110.chunk.js"
+    "revision": "a0ff6eeb1a03f3893381",
+    "url": "/galgalim/static/js/main.8687da7b.chunk.js"
   },
   {
     "revision": "d234351a663fc3237808",
     "url": "/galgalim/static/js/2.4cb2a545.chunk.js"
   },
   {
-    "revision": "2adcc457cd5d91d952c59039df81a8e6",
+    "revision": "3738e9376e651cd4ba2de4c1294f9f36",
     "url": "/galgalim/index.html"
   }
 ];
